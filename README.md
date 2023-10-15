@@ -55,5 +55,3 @@ If you have any questions about the project, please reach out!
 Github: https://github.com/danhalsim
 
 Email: dansim6935@gmail.com
-
-  
