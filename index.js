@@ -27,7 +27,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "List your collaborators, if any, with links to their GitHub profiles.",
+        message: "List any collaborators and any third-party assets and tutorials used.",
         name: "credits"
     },
     {
